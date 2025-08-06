@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A comprehensive collection of deep learning projects demonstrating expertise in neural networks, computer vision, and natural language processing. This portfolio showcases implementations from foundational concepts to state-of-the-art architectures.
 
@@ -278,9 +277,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Yanjie Chen**
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [your-linkedin-profile]
-- 🐱 GitHub: [your-github-username]
+- 📧 Email: [yc4594@columbia.edu]
+- 💼 LinkedIn: [http://www.linkedin.com/in/yanjiechen]
+- 🐱 GitHub: [YanjieChen9117]
 
 ---
 
